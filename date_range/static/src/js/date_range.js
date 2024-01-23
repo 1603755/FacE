@@ -1,3 +1,5 @@
+
+
 /** @odoo-module **/
 import {patch} from "@web/core/utils/patch";
 import {_lt} from "@web/core/l10n/translation";
