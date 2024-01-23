@@ -20,7 +20,7 @@
     "website": "https://github.com/OCA/l10n-spain",
     "license": "AGPL-3",
     "depends": [
-        "web.",
+        "web",
         "account_payment_partner",
         "l10n_es_partner",
         "l10n_es",
